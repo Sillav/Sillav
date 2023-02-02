@@ -6,13 +6,18 @@
 
 - Ex-atirador do Tiro de Guerra de Maringá
 ---
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="35" height="35"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="35" height="35"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle SQL" alt="Oracle SQL" width="35" height="35"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="35" height="35"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="35" height="35"/>&nbsp;
+<div style = "display: inline_block">
+  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML5"/>
+  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "CSS3"/>
+  <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "Bootstrap"/>
+  <img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt = "Java"/>
+  <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt = "C"/>
+  <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt = "C++"/>
+  <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = "MySQL"/>
+  <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt = "MongoDB"/>
 </div>
-Entusiasta e curioso por novas tecnologias, gosto da área de desenvolvimento de aplicações, mas às vezes também trabalho com redes e servidores, como hobby...
+
+Entusiasta e curioso por novas tecnologias, gosto da área de desenvolvimento de aplicações,<br>mas às vezes também trabalho com redes e servidores, como hobby...
+
+
+![Sillav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sillav&show_icons=true&theme=dracula)
