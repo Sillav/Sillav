@@ -26,7 +26,7 @@ Entusiasta e curioso por novas tecnologias, gosto da área de desenvolvimento de
 
 ## 🤔O que eu ando fazendo?😲
 
-![Sillav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sillav&show_icons=true&theme=dracula)╟╫╫╫╢![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sillav&layout=compact)
+![Sillav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sillav&show_icons=true&theme=dracula)╟╫╫╢![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sillav&layout=compact)
 
 <br>
 
