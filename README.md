@@ -7,7 +7,7 @@
 - Ex-atirador do Tiro de Guerra de Maringá
 ---
 
-## 🖥System.out.println(MySkills);⌨
+## 🖥System.out.println(MySkills)⌨
 
 <div style = "display: inline_block">
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML5"/>
@@ -19,9 +19,17 @@
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = "MySQL"/>
   <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt = "MongoDB"/>
 </div>
+
 <br>
+
 Entusiasta e curioso por novas tecnologias, gosto da área de desenvolvimento de aplicações,<br>mas às vezes também trabalho com redes e servidores, como hobby...
 
 ## 🤔O que eu ando fazendo?😲
 
-![Sillav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sillav&show_icons=true&theme=dracula)---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sillav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Sillav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sillav&show_icons=true&theme=dracula)╟╫╫╫╫╢![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sillav&layout=compact)
+
+<br>
+
+——————————————————————————![](https://komarev.com/ghpvc/?username=your-github-Sillav&style=for-the-badge)——————————————————————————
+
+
