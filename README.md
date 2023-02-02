@@ -30,6 +30,6 @@ Entusiasta e curioso por novas tecnologias, gosto da área de desenvolvimento de
 
 <br>
 
-——————————————————————————![](https://komarev.com/ghpvc/?username=your-github-Sillav&style=for-the-badge)——————————————————————————
+—————————————————————————![](https://komarev.com/ghpvc/?username=your-github-Sillav&style=for-the-badge)—————————————————————————
 
 
